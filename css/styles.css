@@ -214,6 +214,17 @@ img {
     gap: 8px;
 }
 
+.advantages-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px;
+    border: 1px solid #8E8F99;
+    background-color: #F4F4FD;
+    margin-bottom: 8px;
+    height: 112px;
+}
+
 .advantages-subtitle {
     color: #2E2F42;
     font-size: 20px;
