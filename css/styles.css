@@ -57,7 +57,7 @@ img {
     overflow: hidden;
 }
 
-/* header */
+/** header **/
 .header {
     border-bottom: 1px solid #E7E9FC;
     box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08),
@@ -124,7 +124,6 @@ img {
     color: #404bbf;
 }
 
-
 .header-menu-link:active::after {
     position: absolute;
     content: "";
@@ -165,8 +164,8 @@ img {
     color: #404BBF;
 }
 
-/*  Main */
-/* Section-dark */
+/**  Main **/
+/** Section-dark **/
 .section-dark {
     background-color: #2E2F42;
     padding: 188px 0;
@@ -176,7 +175,6 @@ img {
     background-size: cover;
     max-width: 1440px;
     margin: 0 auto;
-
 }
 
 .section-dark-title {
@@ -225,7 +223,6 @@ img {
 }
 
 /* Section-advantages */
-
 
 .advantages-list {
     display: flex;
