@@ -124,7 +124,7 @@ img {
     color: #404bbf;
 }
 
-.header-menu-link:active::after {
+.line:active::after {
     position: absolute;
     content: "";
     left: 0;
