@@ -128,9 +128,9 @@ img {
     position: relative;
 }
 
-.line:active::after {
+.line::after {
     position: absolute;
-    content: "";
+    content: " ";
     left: 0;
     bottom: -1px;
     width: 100%;
